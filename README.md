@@ -7,4 +7,4 @@
 - Gustavo Martins Pinheiro.
 - Robson Da Silva Ferreira.
 - Juan Alves de Sousa.
-- (coloque seu nome).
+- Ricardo Rundine Lopes Lima
